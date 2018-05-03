@@ -1,0 +1,19 @@
+\contentsline {section}{\numberline {1}\color {red} Introduction }{2}
+\contentsline {paragraph}{•}{2}
+\contentsline {section}{\numberline {2}\color {red} Problem Statement }{2}
+\contentsline {paragraph}{•}{2}
+\contentsline {paragraph}{•}{2}
+\contentsline {section}{\numberline {3}\color {red} Requirements }{3}
+\contentsline {section}{\numberline {4}\color {red} System Design }{4}
+\contentsline {paragraph}{•}{4}
+\contentsline {subsection}{\numberline {4.1}\color {red} Aruco Marker detection and decision making}{5}
+\contentsline {subsection}{\numberline {4.2}\color {red} Firebird Programming }{6}
+\contentsline {paragraph}{•}{6}
+\contentsline {subsection}{\numberline {4.3}\color {red} Communication}{7}
+\contentsline {section}{\numberline {5}\color {red} Working of System and Test results }{8}
+\contentsline {paragraph}{•}{8}
+\contentsline {section}{\numberline {6}\color {red} Discussion of The System }{9}
+\contentsline {section}{\numberline {7}\color {red} Future Work }{10}
+\contentsline {paragraph}{•}{10}
+\contentsline {section}{\numberline {8}\color {red} Conclusions }{10}
+\contentsline {section}{\numberline {9}\color {red} References }{10}
